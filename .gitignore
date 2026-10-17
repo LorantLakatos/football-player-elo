@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#All .db Files
+*.db
+
+# Elo Logic
+eloCalcSafe.py
+eloCalc.py
+eloOwn.py
+
+#Folders used for storing raw data
+PL20-21/
+
+#Own ignores
+downloaded_files/
